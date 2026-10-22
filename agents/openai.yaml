@@ -1,0 +1,6 @@
+interface:
+  display_name: "亚马逊选品调研"
+  short_description: "从需求、竞品和用户反馈找选品方向，逐步引导配置并交付飞书双报告"
+  default_prompt: "用 $amazon-selection-research 帮我调研一个亚马逊品类，先检查连接和飞书知识库目录，再逐步分析。"
+policy:
+  allow_implicit_invocation: true
